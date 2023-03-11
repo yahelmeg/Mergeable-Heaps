@@ -1,0 +1,16 @@
+MakeHeap
+Insert 8
+Print
+Insert 3
+Insert 4
+Print
+MakeHeap
+Insert 3
+Insert 13
+Insert 7
+Minimum
+ExtractMin
+Print
+Union
+Print
+
